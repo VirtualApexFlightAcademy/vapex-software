@@ -40,7 +40,7 @@ Download link (automated install): [Installing - YourControls](https://docs.your
 
 ## In game (marketplace)
 
-* GARMIN G1000 NXI by Working title simulations
+* GARMIN G1000 NXi by Working title simulations
 
 ## Software
 
@@ -112,7 +112,7 @@ Website: [FSEconomy](https://server.fseconomy.net/)
 
 ## eAIP
 
-Website: http://eaip.caa.gov.tw/
+Website: [eAIP](http://eaip.caa.gov.tw/)
 
 ## Taiwan METAR
 
