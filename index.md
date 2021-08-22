@@ -82,9 +82,9 @@ Download link: [Download - vPilot - Pilot Client for VATSIM (rosscarlson.dev)](h
 
 ## VASTIM
 
-Website: [VATSIM.net | The International Online Flying Network](https://www.vatsim.net/)
+Website: [VATSIM.net The International Online Flying Network](https://www.vatsim.net/)
 
-Pilot dashboard: [Profile | myVATSIM](https://my.vatsim.net/profile)
+Pilot dashboard: [Profile myVATSIM](https://my.vatsim.net/profile)
 
 > Make sure pass p0 test.
 
