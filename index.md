@@ -2,11 +2,11 @@
 
 > This software requirement list is for MSFS2020 user.
 >
-> Software Requirement list version: v1.2
+> Software Requirement list version: v1.3
 >
 > Current MSFS2020 version: v1.18.15
 >
-> Last update: 20210821 by AFA009
+> Last update: 20210826 by AFA009
 
 [TOC]
 
@@ -20,7 +20,7 @@
 
 ### DA40-NGX
 
-Current version: v0.7.7.1
+Current version: v0.8
 
 Download link: [DA40-NGX Improvement Mod » Microsoft Flight Simulator](https://flightsim.to/file/2738/da40-ngx-project)
 
@@ -123,6 +123,10 @@ Website: [Taiwan METAR - 台灣機場天氣資訊](https://metar.yzchen.tw/)
 Website: [航空氣象服務網 (anws.gov.tw)](https://aoaws.anws.gov.tw/AWS/index.php)
 
 # Change log
+
+## v1.3
+
+DA40-NGX improvement update to v0.8
 
 ## v1.2
 
