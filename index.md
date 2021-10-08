@@ -2,11 +2,11 @@
 
 > This software requirement list is for MSFS2020 user.
 >
-> Software Requirement list version: v1.4
+> Software Requirement list version: v1.5
 >
-> Current MSFS2020 version: v1.19.8.0
+> Current MSFS2020 version: v1.19.9.0
 >
-> Last update: 20210908 by AFA009
+> Last update: 20211008 by AFA009
 
 [TOC]
 
@@ -15,16 +15,13 @@
 ## Community folder
 
 * DA40-NGX
-* ~~workingtitle-g1000~~
 * YourControls
 
 ### DA40-NGX
 
-Current version: v0.8.0.1
+Current version: v0.8.0.3
 
 Download link: [DA40-NGX Improvement Mod » Microsoft Flight Simulator](https://flightsim.to/file/2738/da40-ngx-project)
-
-### ~~Workingtitle-g1000 (no more needed)~~
 
 ### YourContorls
 
@@ -59,7 +56,7 @@ Download link: [FSUIPC Client - FSEconomy Operations Guide (google.com)](https:/
 
 ### FSUIPC7 plugin
 
-Current version: v7.2.4
+Current version: v7.2.10
 
 > Register an account is **no need**
 
@@ -123,6 +120,14 @@ Website: [Taiwan METAR - 台灣機場天氣資訊](https://metar.yzchen.tw/)
 Website: [航空氣象服務網 (anws.gov.tw)](https://aoaws.anws.gov.tw/AWS/index.php)
 
 # Change log
+
+## v1.5
+
+MSFS2020 update to 1.19.9.0
+
+DA40-NGX improvement update to v0.8.0.3
+
+FSUIPC7 plugin update to v7.2.10
 
 ## v1.4
 
