@@ -2,11 +2,11 @@
 
 > This software requirement list is for MSFS2020 user.
 >
-> Software Requirement list version: v1.6
+> Software Requirement list version: v1.7
 >
-> Current MSFS2020 version: v1.21.13.0
+> Current MSFS2020 version: v1.26.5.0
 >
-> Last update: 20211204 by AFA009
+> Last update: 20220815 by AFA002
 
 [TOC]
 
@@ -22,7 +22,7 @@
 
 ### DA40-NGX
 
-Current version: 0.8.5.1
+Current version: 0.9.0.1
 
 Download link: [DA40-NGX Improvement Mod » Microsoft Flight Simulator](https://flightsim.to/file/2738/da40-ngx-project)
 
@@ -30,13 +30,13 @@ Download link: [DA40-NGX Improvement Mod » Microsoft Flight Simulator](https://
 
 > If use manual install, you should follow install guide in zip you download.
 
-Current version: 2.6.3
+Current version: 2.7.0
 
-Document: [Home - YourControls](https://docs.yourcontrols.xyz/)
+Document: [Home - YourControls](https://docs.yourcontrols.one/)
 
 Download link (manual install): [Releases · Sequal32/yourcontrols (github.com)](https://github.com/Sequal32/yourcontrols/releases)
 
-Download link (automated install): [Installing - YourControls](https://docs.yourcontrols.xyz/installing#automated-installer)
+Download link (automated install): [Installing - YourControls](https://docs.yourcontrols.one/installing)
 
 ### RCFN Taitung Fengnin Airport, Taiwan
 
@@ -46,7 +46,7 @@ Current version: 1.0
 
 Download link: [RCFN Taitung Fengnin Airport, Taiwan » Microsoft Flight Simulator](https://flightsim.to/file/24277/rcfn-taitung-fengnin-airport-taiwan)
 
-### Taiwan 20m DEM
+### ~~Taiwan 20m DEM~~ No longer needed
 
 > Big thanks to **FS Formosa Project**, visit their [website]([福爾摩沙模擬飛行模組開發計畫 (fsformosa.tw)](https://fsformosa.tw/)) for more remarkable plug-in.
 
@@ -79,13 +79,13 @@ Download link: [RCGI Ludao Airport, Taiwan » Microsoft Flight Simulator](https:
 
 Document: [FSEconomy Operations Guide (google.com)](https://sites.google.com/site/fseoperationsguide/)
 
-Download link: [FSUIPC Client - FSEconomy Operations Guide (google.com)](https://sites.google.com/site/fseoperationsguide/getting-started/using-the-fse-client/fs8-fs9-client)
+Install link: [FSUIPC Client - FSEconomy Operations Guide (google.com)](https://sites.google.com/site/fseoperationsguide/getting-started/using-the-fse-client/fsuipc-client?authuser=0)
 
 ### FSUIPC7 plugin
 
 Current version: v7.2.10
 
-> Register an account is **no need**
+> Register an account is **not applicable**
 
 Document: [Pete & John Dowson's Software (fsuipc.com)](http://www.fsuipc.com/)
 
@@ -93,7 +93,7 @@ Download link: http://fsuipc.simflight.com/beta/Install_FSUIPC7.zip
 
 ### vPilot
 
-Current version: v2.8.4
+Current version: v3.4.6
 
 Document: [Documentation - vPilot - Pilot Client for VATSIM (rosscarlson.dev)](https://vpilot.rosscarlson.dev/Documentation)
 
@@ -120,7 +120,7 @@ Website: [FSEconomy](https://server.fseconomy.net/)
 
 # Reading sheet
 
-* DA40 NG CHECKLIST v1.3
+* DA40 NG CHECKLIST v2.0
 * DA40 call out v1.2
 
 # Filling sheet
@@ -148,6 +148,13 @@ Website: [航空氣象服務網 (anws.gov.tw)](https://aoaws.anws.gov.tw/AWS/ind
 
 # Change log
 
+## v1.7
+* MSFS2020 sim update 10
+* DA40-NGX improvement update to v0.9.0.1
+* YourContorls update to v2.7.0
+* Remove Taiwan 20m DEM v1.3
+* vPilot update to v3.4.6
+* DA40 NG CHECKLIST update to v2.0
 ## v1.6
 
 * MSFS2020 update to 1.21.13.0 (SU7)
